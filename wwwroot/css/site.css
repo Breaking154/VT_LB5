@@ -1,0 +1,9 @@
+.navbar-nav {
+    margin-left: auto; /* Перемещает элементы вправо */
+    display: flex; /* Использует flexbox для выравнивания элементов */
+    align-items: center; /* Выравнивает элементы по вертикали */
+}
+
+    .navbar-nav .nav-item {
+        margin-right: 10px; /* Отступ между элементами навигации */
+    }
